@@ -1,0 +1,225 @@
+!SESSION 2026-03-14 22:18:35.332 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-14 22:18:42.962
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-14 22:22:35.556
+!MESSAGE Logback config file: D:\training capgemini\SpringMicroservicesPractice\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-03-14 22:22:54.580
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:07.946
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:07.947
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:07.948
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:07.949
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:09.929
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:09.930
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:09.931
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:09.932
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:12.168
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:12.170
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:12.171
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:12.173
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:13.363
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:13.365
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:13.366
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-14 22:24:13.368
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-03-14 22:24:16.841
+!MESSAGE An internal error occurred during: "Updating Maven Project".
+!STACK 0
+java.lang.IllegalStateException: repository system is already shut down
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.validateSession(DefaultRepositorySystem.java:462)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:275)
+	at org.apache.maven.project.ProjectModelResolver.resolveModel(ProjectModelResolver.java:172)
+	at org.apache.maven.model.building.DefaultModelBuilder.importDependencyManagement(DefaultModelBuilder.java:1202)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:528)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:419)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:248)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:176)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:333)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:295)
+	at org.apache.maven.project.DefaultProjectBuilder.initParent(DefaultProjectBuilder.java:911)
+	at org.apache.maven.project.DefaultProjectBuilder.initProject(DefaultProjectBuilder.java:674)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:616)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:375)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:126)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$11(ProjectRegistryManager.java:773)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacades(ProjectRegistryManager.java:769)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:396)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:388)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:340)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1067)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-03-14 22:24:17.247
+!MESSAGE Unexpected internal Error occured
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unexpected internal Error occured
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1113)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:290)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.addClasspathEntries(DefaultClasspathManagerDelegate.java:102)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:64)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:239)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:360)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:342)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:367)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:200)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.updateClasspath(DownloadSourcesJob.java:196)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:175)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalStateException: m2e is shut down!
+	at org.eclipse.m2e.core.embedder.IMavenConfiguration.getWorkspaceConfiguration(IMavenConfiguration.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.getExecutionRequest(MavenExecutionContext.java:143)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:909)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1106)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1066)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1105)
+	... 11 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2026-03-14 22:24:17.248
+!MESSAGE Unexpected internal Error occured
+!STACK 0
+java.lang.IllegalStateException: m2e is shut down!
+	at org.eclipse.m2e.core.embedder.IMavenConfiguration.getWorkspaceConfiguration(IMavenConfiguration.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.getExecutionRequest(MavenExecutionContext.java:143)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:909)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1106)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1066)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1105)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:290)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.addClasspathEntries(DefaultClasspathManagerDelegate.java:102)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:64)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:239)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:360)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:342)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:367)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:200)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.updateClasspath(DownloadSourcesJob.java:196)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:175)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-03-14 22:24:17.358
+!MESSAGE Unexpected internal Error occured
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unexpected internal Error occured
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1113)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:290)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.addClasspathEntries(DefaultClasspathManagerDelegate.java:102)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:64)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:239)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:360)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:342)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:367)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:200)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.updateClasspath(DownloadSourcesJob.java:196)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:175)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalStateException: m2e is shut down!
+	at org.eclipse.m2e.core.embedder.IMavenConfiguration.getWorkspaceConfiguration(IMavenConfiguration.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.getExecutionRequest(MavenExecutionContext.java:143)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:909)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1106)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1066)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1105)
+	... 11 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2026-03-14 22:24:17.358
+!MESSAGE Unexpected internal Error occured
+!STACK 0
+java.lang.IllegalStateException: m2e is shut down!
+	at org.eclipse.m2e.core.embedder.IMavenConfiguration.getWorkspaceConfiguration(IMavenConfiguration.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.getExecutionRequest(MavenExecutionContext.java:143)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:909)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1106)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1066)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1105)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:290)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.addClasspathEntries(DefaultClasspathManagerDelegate.java:102)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:64)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:239)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:360)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:342)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:367)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:200)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.updateClasspath(DownloadSourcesJob.java:196)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:175)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 10035 2026-03-14 22:24:18.925
+!MESSAGE The workspace will exit with unsaved changes in this session.

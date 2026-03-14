@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\training capgemini\SpringMicroservicesPractice\.metadata\.plugins\org.eclipse.jdt.core
+3636361449.index
+1824835138.index
+2061055890.index
+3144210801.index
+1771846626.index
+1524899368.index
